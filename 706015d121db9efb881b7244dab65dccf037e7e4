@@ -1,0 +1,8 @@
+Verified+1: Hudson CI
+Code-Review+2: Zoltan Ujhelyi <ujhelyiz@mit.bme.hu>
+IP-Clean+1: Zoltan Ujhelyi <ujhelyiz@mit.bme.hu>
+Submitted-by: Zoltan Ujhelyi <ujhelyiz@mit.bme.hu>
+Submitted-at: Thu, 07 Nov 2013 10:06:22 -0500
+Reviewed-on: https://git.eclipse.org/r/18175
+Project: viatra2/org.eclipse.viatra2.emf
+Branch: refs/heads/master
